@@ -1,11 +1,11 @@
-import "./nav.scss";
+import "./Nav.scss";
 
 const Nav = () => {
   return (
     <header className="mac-menu-bar">
       {/* LEFT */}
       <div className="menu-left">
-        <span className="apple-logo"></span>
+        <span className="apple-logo"></span>x
 
         <span className="menu-item app-name">Keshav Saharan</span>
         <span className="menu-item">File</span>
