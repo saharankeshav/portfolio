@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "title": "MacOS Portfolio Interface",
+      "description": "A macOS-inspired personal portfolio website with animated dock, glassmorphism UI, and smooth transitions.",
+      "tags": ["React", "SCSS", "Framer Motion", "UI/UX"],
+      "repolink": "https://github.com/username/macos-portfolio",
+      "demolink": "https://macos-portfolio-demo.vercel.app"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "title": "AI Contract Summarizer",
+      "description": "A web app that summarizes long legal contracts into simple, readable points using AI.",
+      "tags": ["MERN", "AI", "Node.js", "MongoDB"],
+      "repolink": "https://github.com/username/contract-summarizer",
+      "demolink": "https://contract-summarizer-demo.vercel.app"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=1200&q=80",
+      "title": "Minimal Task Manager",
+      "description": "A minimal and distraction-free task management app with smooth animations and dark mode.",
+      "tags": ["React", "JavaScript", "CSS", "Productivity"],
+      "repolink": "https://github.com/username/task-manager",
+      "demolink": "https://task-manager-demo.netlify.app"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+      "title": "Developer Blog Platform",
+      "description": "A full-stack blogging platform for developers with markdown support and authentication.",
+      "tags": ["Next.js", "Express", "MongoDB", "Markdown"],
+      "repolink": "https://github.com/username/dev-blog",
+      "demolink": "https://dev-blog-demo.vercel.app"
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=1200&q=80",
+      "title": "Interactive Resume Builder",
+      "description": "An interactive resume builder that allows users to generate and preview resumes in real time.",
+      "tags": ["React", "PDF", "Frontend", "UI"],
+      "repolink": "https://github.com/username/resume-builder",
+      "demolink": "https://resume-builder-demo.vercel.app"
+    }
+  ]
+  
